@@ -1,0 +1,6 @@
+{
+        "input_data": "http://www.gutenberg.org/files/23218/23218-h/23218-h.htm",
+        "map_fn":"wordCountMapper",
+        "reduce_fn":"wordCountReducer",
+        "output_location":"home/adarshhegdegef/wordCount.txt"
+}
